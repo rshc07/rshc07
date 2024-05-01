@@ -2,7 +2,7 @@
   
 ## 🔭 Current Focus
 - Learning front-end technologies such as HTML, CSS, JavaScript, and React.js.
-- Exploring back-end development with Node.js and Express.js.
+- Exploring back-end development with java, spring boot framework.
 - Diving into database technologies like MongoDB and MySQL.
  
 ## 🌱 Learning Goals
