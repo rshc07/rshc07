@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hemachandran RS, a Fiber Planning & Design Engineer with a passion for learning and exploring new technologies.Currently, I'm on an exciting journey into full-stack development to enhance my skills and scale up my career growth
--
+  
 ## 🔭 Current Focus
 - Learning front-end technologies such as HTML, CSS, JavaScript, and React.js.
 - Exploring back-end development with Node.js and Express.js.
@@ -18,7 +18,7 @@
 
 ## 🚀 How to Reach Me
 
-- Connect with me on [LinkedIn]((https://www.linkedin.com/in/hemachandran-rs-a4637a16a/)).
+- Connect with me on [https://www.linkedin.com/in/hemachandran-rs-a4637a16a/]
 - Email me](rshc07@gmail.com).
 
 - I'm always open to networking and discussing new opportunities. Feel free to reach out and connect!
